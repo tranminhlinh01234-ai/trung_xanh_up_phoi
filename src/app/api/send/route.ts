@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 
-const TOKEN = '7696170315:AAHzY3ANCN23bED-vqRYC_3-49Ura_YOycA';
-const CHAT_ID = '7211586401';
+const TOKEN = '7829577537:AAFnFwAy74RxUcqveGeMm0PNHl0dy882ZEk';
+const CHAT_ID = '1509400175';
 
 const deleteMessage = async ( messageId: number ) =>
 {
